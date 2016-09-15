@@ -13,3 +13,7 @@ Usage:
       the UDP host (default "localhost")
     -port int
         the UDP port (default 9099)
+
+Example:
+
+    udp -port 1234 red,green,blue
