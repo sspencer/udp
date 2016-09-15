@@ -17,3 +17,16 @@ Usage:
 Example:
 
     udp -port 1234 red,green,blue
+
+
+## Build Instructions
+
+Go is easy.
+
+Run from current directory:
+
+    go run main.go
+
+Install into go/bin directory
+
+    go install
